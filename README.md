@@ -24,7 +24,7 @@ output files
 Scripts logic
 
 * Firstly read the training and test file for X
-* Merge using rbing function
+* Merge using rbind function
 * Read the subject_train and subject Test files - Each row identifies the subject who performed the activity for each window sample.  Its range is from 1 to 30
 * The extract the measurements on the mean and standard deviation for each measurement using grep and gsub function
 
